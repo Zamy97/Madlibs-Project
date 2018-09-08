@@ -21,11 +21,6 @@ celebrity = input("Enter a Celebrity Name: ")
 country = input("Enter a Country Name: ")
 your_name = input("Enter your name: ")
 
-
-
-
-
-
 print( your_name +  " is good at " + first_Verb )
 print("She loves everything about " + plural_noun )
 print("She kinda wants to go to " + country + " to meet " + celebrity)
